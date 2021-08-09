@@ -1,3 +1,6 @@
+months = "Jan\nFeb\nMar\nApr\nMay\nJun\nJul\nAug"
+print(months)
+
 parrafo = ''' hola esto es 
                  es un texto con 
                  varias lineas
@@ -20,7 +23,9 @@ y = input('Registra el segundo número  ')
 z = int(x) * int(y)
 print(f'The result of { x } * { y } = { z }')
 
-name='brad'
-age=15
+
+
+name = 'brad'
+age = 15
 
 print(f'my name is {name} and i am {age}')
